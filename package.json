@@ -1,0 +1,13 @@
+{
+  "name": "min-subset",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest *.test.js"
+  },
+  "author": "Victor Kohl Tavares",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "22.1.4"
+  }
+}
